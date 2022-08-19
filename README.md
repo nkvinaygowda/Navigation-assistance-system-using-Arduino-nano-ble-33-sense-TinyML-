@@ -19,3 +19,13 @@ commands to help the navigator.
 TinyML-approach can be used for useful navigation applications. However, there 
 are restrictions and numerous difficulties that are discussed in this mini-project 
 report along with potential solutions.
+<br>
+FLOWCHART
+<br>
+<img height= "400" src="https://user-images.githubusercontent.com/50692899/185612536-c95b4c52-d76d-4478-b990-37f32c104dd6.jpeg">
+<br>
+CIRCUIT DIAGRAM
+<br>
+<img height = "400" src="https://user-images.githubusercontent.com/50692899/185613257-267396a9-30dc-4761-99eb-f69b4a47a5b3.jpg">
+<br>
+
